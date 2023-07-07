@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceMateAmanda
-- 👀 I’m interested in becoming an mobile developer
-- 🌱 I’m currently learning react
+- 👀 I’m interested in becoming a mobile developer
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
